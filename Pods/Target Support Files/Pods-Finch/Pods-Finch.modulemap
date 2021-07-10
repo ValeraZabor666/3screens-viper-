@@ -1,0 +1,6 @@
+framework module Pods_Finch {
+  umbrella header "Pods-Finch-umbrella.h"
+
+  export *
+  module * { export * }
+}
